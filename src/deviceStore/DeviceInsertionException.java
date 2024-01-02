@@ -1,4 +1,4 @@
-package groupxx;
+package deviceStore;
 
 public class DeviceInsertionException extends RuntimeException {
     public DeviceInsertionException() {

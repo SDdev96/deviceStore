@@ -1,6 +1,6 @@
 package provided;
 
-import groupxx.Device;
+import deviceStore.Device;
 
 public interface DeviceFilter {
     

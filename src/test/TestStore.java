@@ -1,6 +1,6 @@
 package test;
 
-import groupxx.*;
+import deviceStore.*;
 import provided.*;
 
 /*

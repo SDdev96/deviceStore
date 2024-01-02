@@ -1,4 +1,4 @@
-package groupxx;
+package deviceStore;
 
 import java.time.LocalDate;
 import java.lang.Comparable;

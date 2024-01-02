@@ -1,4 +1,4 @@
-package groupxx;
+package deviceStore;
 
 import java.util.*;
 
